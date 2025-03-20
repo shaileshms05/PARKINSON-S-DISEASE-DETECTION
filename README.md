@@ -94,4 +94,7 @@ streamlit run app.py
     - Prediction result with confidence score.
     - Audio waveform and spectrogram analysis.
 
+
 ---
+![Screenshot 2025-03-20 155743](https://github.com/user-attachments/assets/fcb5374a-2f93-488c-9ec5-e197014235d2)
+![image](https://github.com/user-attachments/assets/93d7dcb3-0775-47e6-9ff8-5c3922127d34)
