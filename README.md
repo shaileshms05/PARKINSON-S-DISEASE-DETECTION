@@ -96,5 +96,15 @@ streamlit run app.py
 
 
 ---
-![Screenshot 2025-03-20 155743](https://github.com/user-attachments/assets/fcb5374a-2f93-488c-9ec5-e197014235d2)
-![image](https://github.com/user-attachments/assets/93d7dcb3-0775-47e6-9ff8-5c3922127d34)
+**FOR PARKINSON DISEASE:**
+![Screenshot 2025-03-20 153155](https://github.com/user-attachments/assets/8f7443db-69ac-4627-beb2-38092274be09)
+
+![Screenshot 2025-03-20 153201](https://github.com/user-attachments/assets/4ae81780-c4f7-4384-9ed4-c0ebd29801d8)
+
+
+**FOR HEALTHY AUDIO:**
+
+
+![Screenshot 2025-03-20 153104](https://github.com/user-attachments/assets/e09e9b74-0107-40f4-adf8-2b42ac97504b)
+![Screenshot 2025-03-20 153118](https://github.com/user-attachments/assets/1cdf66f9-9fa3-4248-99ac-c8f0b15cfdee)
+
