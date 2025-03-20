@@ -1,5 +1,18 @@
 # 🎤 Parkinson's Detection from Voice using speech patterns
 
+🎧 Audio Analysis for Parkinson’s Disease and Healthy Individuals
+
+🧠 For Parkinson’s Disease:
+
+
+<img src="https://github.com/user-attachments/assets/8f7443db-69ac-4627-beb2-38092274be09" alt="Parkinson Audio 1" width="400"/> <img src="https://github.com/user-attachments/assets/4ae81780-c4f7-4384-9ed4-c0ebd29801d8" alt="Parkinson Audio 2" width="400"/>
+
+
+💪 For Healthy Audio:
+
+<img src="https://github.com/user-attachments/assets/e09e9b74-0107-40f4-adf8-2b42ac97504b" alt="Healthy Audio 1" width="400"/> <img src="https://github.com/user-attachments/assets/1cdf66f9-9fa3-4248-99ac-c8f0b15cfdee" alt="Healthy Audio 2" width="400"/>
+
+
 This project uses **CNN + XGBoost** to detect Parkinson's disease from voice recordings. The system extracts various audio features and predicts whether the individual is likely to have Parkinson's disease.
 
 ## 📚 Dataset Used
@@ -96,15 +109,5 @@ streamlit run app.py
 
 
 ---
-**FOR PARKINSON DISEASE:**
-![Screenshot 2025-03-20 153155](https://github.com/user-attachments/assets/8f7443db-69ac-4627-beb2-38092274be09)
 
-![Screenshot 2025-03-20 153201](https://github.com/user-attachments/assets/4ae81780-c4f7-4384-9ed4-c0ebd29801d8)
-
-
-**FOR HEALTHY AUDIO:**
-
-
-![Screenshot 2025-03-20 153104](https://github.com/user-attachments/assets/e09e9b74-0107-40f4-adf8-2b42ac97504b)
-![Screenshot 2025-03-20 153118](https://github.com/user-attachments/assets/1cdf66f9-9fa3-4248-99ac-c8f0b15cfdee)
 
